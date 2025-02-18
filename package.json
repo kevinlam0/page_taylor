@@ -1,0 +1,25 @@
+{
+  "name": "page_taylor",
+  "version": "1.0.0",
+  "description": "Group Reading Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinlam0/page_taylor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kevinlam0/page_taylor/issues"
+  },
+  "homepage": "https://github.com/kevinlam0/page_taylor#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
